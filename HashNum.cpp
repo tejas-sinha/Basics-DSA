@@ -1,4 +1,4 @@
-// Printing how many times number is occured in array using hash method.
+// Printing frequency of number in string using hash method.
 
 #include <iostream>
 using namespace std;
