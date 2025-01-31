@@ -1,4 +1,4 @@
-// Printing how many times number is occured in array using map method.
+// Printing frequency of number in string using map method.
 
 #include <iostream>
 #include <map>
