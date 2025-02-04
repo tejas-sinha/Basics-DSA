@@ -1,4 +1,4 @@
-// Printing how many times character is occured in string using hash method.
+// Printing frequency of character in string using hash method.
 
 #include <iostream>
 using namespace std;
